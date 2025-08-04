@@ -39,7 +39,7 @@ public class First_Program{
 		int value_1 = 24/2;
 		float Value_2 = 30f / 2f;     // last always f,l,d for double, float, long data type
 		double Value_3 = 200d / 5d;
-		System.out.println("The Division result is: "+Value_1,Value_2,Value_3);
+		System.out.println("The Division result is: "+value_1,Value_2,Value_3);
 		
 		// Character Declaration
 		char ch = 'S'; 
