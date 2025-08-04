@@ -66,7 +66,7 @@ public class First_Program{
 		// Short 2 byte
 		
 		short shortMax = 32767;
-	    short shortMax = -32768;	
+	    short shortMin = -32768;	
 	    
 	    // int 4 byte 
 	    long Mobile_Num=9881797923L;
