@@ -20,7 +20,7 @@ class Yellow extends Colour {
 	}
 }
 
-public class CovarientOverRiding {
+public class CovarientOverriding {
 
 	public static void main(String[] args) {
 		
