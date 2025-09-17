@@ -1,3 +1,4 @@
+//MAin Method
 package com.Three_Day;
 import java.util.Scanner;
 public class PersonDriDemo {
@@ -16,13 +17,13 @@ public class PersonDriDemo {
 		System.out.println("Enter Income");
 		int income = sc.nextInt();
 		
-		// person class object and initialization values using
+		// person class object and initialization values using getter metod
 		Person person=new Person();
 		person.setName(name);
 		person.setAge(age);
 		person.setGender(Gender);
 		person.setIncome(income);
-		
+		//using getter method
 		System.out.println(person.getAge());
 		System.out.println(person.getGender());
 		
