@@ -27,4 +27,3 @@ public class DeliveryPerson {
 		this.contactNo = contactNo;
 	}
 }
-
